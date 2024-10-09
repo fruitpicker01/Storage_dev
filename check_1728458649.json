@@ -1,0 +1,24 @@
+{
+    "timestamp": 1728458649,
+    "approach_stats": {
+        "Начни сообщение с призыва к действию с продуктом.": {
+            "failed_checks": {},
+            "total_attempts": 2
+        },
+        "Начни сообщение с указания на пользу продукта. Используй глагол в побудительном наклонении.": {
+            "failed_checks": {
+                "adverbial_participles": 1,
+                "abstract_claims": 2
+            },
+            "total_attempts": 5
+        },
+        "Начни сообщение с вопроса, который указывает на пользу продукта для клиента.": {
+            "failed_checks": {
+                "no_word_repetitions": 3,
+                "introductory_phrases": 2,
+                "double_verbs": 1
+            },
+            "total_attempts": 8
+        }
+    }
+}
