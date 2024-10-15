@@ -199,3 +199,24 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1728993557,"Начни сообщение с вопроса, который указывает на пользу продукта для клиента.",abstract_claims,2,32
 1728993557,"Начни сообщение с вопроса, который указывает на пользу продукта для клиента.",adverbial_participles,1,32
 1728993557,"Начни сообщение с вопроса, который указывает на пользу продукта для клиента.",double_verbs,1,32
+1728997706,Призыв к действию,multiple_nouns,5,33
+1728997706,Призыв к действию,no_word_repetitions,14,33
+1728997706,Призыв к действию,cliches_and_bureaucratese,1,33
+1728997706,Призыв к действию,introductory_phrases,2,33
+1728997706,Призыв к действию,derived_prepositions,7,33
+1728997706,Призыв к действию,forbidden_words,2,33
+1728997706,Призыв к действию,abstract_claims,1,33
+1728997706,Вопрос,no_contradictions,3,26
+1728997706,Вопрос,no_word_repetitions,16,26
+1728997706,Вопрос,multiple_nouns,1,26
+1728997706,Вопрос,cliches_and_bureaucratese,1,26
+1728997706,Вопрос,abstract_claims,1,26
+1728997706,Вопрос,forbidden_words,2,26
+1728997706,Вопрос,contains_key_message,1,26
+1728997706,Указание на пользу,derived_prepositions,2,12
+1728997706,Указание на пользу,forbidden_words,2,12
+1728997706,Указание на пользу,no_contradictions,3,12
+1728997706,Указание на пользу,no_word_repetitions,1,12
+1728997706,Указание на пользу,contains_key_message,1,12
+1728997706,Указание на пользу,adverbial_participles,1,12
+1728997706,Указание на пользу,multiple_nouns,1,12
