@@ -226,3 +226,19 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729002630,Указание на пользу,no_contradictions,9,22
 1729002630,Указание на пользу,cliches_and_bureaucratese,4,22
 1729002630,Указание на пользу,synonymous_members,1,22
+1729003474,Указание на пользу,forbidden_words,3,55
+1729003474,Указание на пользу,no_word_repetitions,20,55
+1729003474,Указание на пользу,derived_prepositions,2,55
+1729003474,Указание на пользу,no_contradictions,10,55
+1729003474,Указание на пользу,cliches_and_bureaucratese,5,55
+1729003474,Указание на пользу,synonymous_members,1,55
+1729003474,Указание на пользу,adverbial_participles,4,55
+1729003474,Указание на пользу,abstract_claims,1,55
+1729003474,Указание на пользу,multiple_nouns,6,55
+1729003474,Указание на пользу,compound_sentences,1,55
+1729003474,Вопрос,no_contradictions,7,24
+1729003474,Вопрос,double_verbs,2,24
+1729003474,Вопрос,no_word_repetitions,9,24
+1729003474,Вопрос,forbidden_words,1,24
+1729003474,Вопрос,abstract_claims,1,24
+1729003474,Вопрос,cliches_and_bureaucratese,2,24
