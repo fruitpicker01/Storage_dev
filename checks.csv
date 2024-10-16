@@ -253,3 +253,14 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729066909,Указание на пользу,derived_prepositions,1,6
 1729066909,Указание на пользу,no_contradictions,2,6
 1729066909,Указание на пользу,no_word_repetitions,1,6
+1729085034,Призыв к действию,forbidden_words,9,88
+1729085034,Призыв к действию,no_word_repetitions,33,88
+1729085034,Призыв к действию,cliches_and_bureaucratese,4,88
+1729085034,Призыв к действию,derived_prepositions,2,88
+1729085034,Призыв к действию,clickbait_phrases,13,88
+1729085034,Призыв к действию,double_verbs,4,88
+1729085034,Призыв к действию,abstract_claims,15,88
+1729085034,Призыв к действию,introductory_phrases,4,88
+1729085034,Призыв к действию,multiple_nouns,1,88
+1729085034,Призыв к действию,promises,1,88
+1729085034,Призыв к действию,compound_sentences,1,88
