@@ -242,3 +242,14 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729003474,Вопрос,forbidden_words,1,24
 1729003474,Вопрос,abstract_claims,1,24
 1729003474,Вопрос,cliches_and_bureaucratese,2,24
+1729066909,Вопрос,forbidden_words,10,37
+1729066909,Вопрос,abstract_claims,2,37
+1729066909,Вопрос,no_word_repetitions,10,37
+1729066909,Вопрос,cliches_and_bureaucratese,5,37
+1729066909,Вопрос,adverbial_participles,3,37
+1729066909,Вопрос,introductory_phrases,1,37
+1729066909,Вопрос,no_contradictions,3,37
+1729066909,Вопрос,derived_prepositions,1,37
+1729066909,Указание на пользу,derived_prepositions,1,6
+1729066909,Указание на пользу,no_contradictions,2,6
+1729066909,Указание на пользу,no_word_repetitions,1,6
