@@ -264,3 +264,8 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729085034,Призыв к действию,multiple_nouns,1,88
 1729085034,Призыв к действию,promises,1,88
 1729085034,Призыв к действию,compound_sentences,1,88
+1729164193,Вопрос,introductory_phrases,1,21
+1729164193,Вопрос,adverbial_participles,1,21
+1729164193,Вопрос,no_word_repetitions,9,21
+1729164193,Вопрос,double_verbs,3,21
+1729164193,Вопрос,compound_sentences,1,21
