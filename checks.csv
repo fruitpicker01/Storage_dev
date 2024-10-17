@@ -280,3 +280,9 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729165244,Призыв к действию,derived_prepositions,1,12
 1729165244,Призыв к действию,superlative_adjectives,1,12
 1729165244,Призыв к действию,compound_sentences,1,12
+1729165678,Призыв к действию,no_word_repetitions,6,25
+1729165678,Призыв к действию,derived_prepositions,1,25
+1729165678,Призыв к действию,superlative_adjectives,2,25
+1729165678,Призыв к действию,compound_sentences,2,25
+1729165678,Призыв к действию,double_verbs,1,25
+1729165678,Призыв к действию,multiple_nouns,1,25
