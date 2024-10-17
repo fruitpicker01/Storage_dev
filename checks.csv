@@ -269,3 +269,10 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729164193,Вопрос,no_word_repetitions,9,21
 1729164193,Вопрос,double_verbs,3,21
 1729164193,Вопрос,compound_sentences,1,21
+1729164658,Вопрос,introductory_phrases,5,48
+1729164658,Вопрос,adverbial_participles,3,48
+1729164658,Вопрос,no_word_repetitions,16,48
+1729164658,Вопрос,double_verbs,8,48
+1729164658,Вопрос,compound_sentences,2,48
+1729164658,Вопрос,forbidden_words,2,48
+1729164658,Вопрос,derived_prepositions,1,48
