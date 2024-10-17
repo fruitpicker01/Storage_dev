@@ -276,3 +276,7 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729164658,Вопрос,compound_sentences,2,48
 1729164658,Вопрос,forbidden_words,2,48
 1729164658,Вопрос,derived_prepositions,1,48
+1729165244,Призыв к действию,no_word_repetitions,3,12
+1729165244,Призыв к действию,derived_prepositions,1,12
+1729165244,Призыв к действию,superlative_adjectives,1,12
+1729165244,Призыв к действию,compound_sentences,1,12
