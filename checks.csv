@@ -286,3 +286,12 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729165678,Призыв к действию,compound_sentences,2,25
 1729165678,Призыв к действию,double_verbs,1,25
 1729165678,Призыв к действию,multiple_nouns,1,25
+1729253761,Вопрос,no_word_repetitions,6,12
+1729253761,Вопрос,forbidden_words,2,12
+1729253761,Вопрос,double_verbs,1,12
+1729253761,Вопрос,no_contradictions,3,12
+1729253761,Указание на пользу,no_word_repetitions,3,15
+1729253761,Указание на пользу,cliches_and_bureaucratese,2,15
+1729253761,Указание на пользу,adverbial_participles,2,15
+1729253761,Указание на пользу,abstract_claims,1,15
+1729253761,Указание на пользу,derived_prepositions,1,15
