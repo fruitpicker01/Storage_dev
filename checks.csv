@@ -337,3 +337,5 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729516630,Вопрос,abstract_claims,1,4
 1729517494,Вопрос,no_word_repetitions,2,4
 1729517494,Вопрос,clickbait_phrases,1,4
+1729520854,Указание на пользу,double_verbs,2,5
+1729520854,Указание на пользу,no_word_repetitions,3,5
