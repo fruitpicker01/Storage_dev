@@ -332,3 +332,6 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729514146,Вопрос,derived_prepositions,1,5
 1729514146,Вопрос,double_verbs,1,5
 1729514146,Вопрос,no_word_repetitions,2,5
+1729516630,Вопрос,no_word_repetitions,2,4
+1729516630,Вопрос,superlative_adjectives,1,4
+1729516630,Вопрос,abstract_claims,1,4
