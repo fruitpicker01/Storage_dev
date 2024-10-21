@@ -307,3 +307,6 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729500685,Указание на пользу,no_contradictions,1,40
 1729500685,Указание на пользу,contains_key_message,1,40
 1729500685,Указание на пользу,superlative_adjectives,1,40
+1729511732,Указание на пользу,no_word_repetitions,3,16
+1729511732,Указание на пользу,abstract_claims,6,16
+1729511732,Указание на пользу,no_contradictions,1,16
