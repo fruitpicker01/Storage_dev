@@ -295,3 +295,15 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729253761,Указание на пользу,adverbial_participles,2,15
 1729253761,Указание на пользу,abstract_claims,1,15
 1729253761,Указание на пользу,derived_prepositions,1,15
+1729500685,Вопрос,no_word_repetitions,6,12
+1729500685,Вопрос,forbidden_words,2,12
+1729500685,Вопрос,double_verbs,1,12
+1729500685,Вопрос,no_contradictions,3,12
+1729500685,Указание на пользу,no_word_repetitions,12,40
+1729500685,Указание на пользу,cliches_and_bureaucratese,4,40
+1729500685,Указание на пользу,adverbial_participles,5,40
+1729500685,Указание на пользу,abstract_claims,3,40
+1729500685,Указание на пользу,derived_prepositions,1,40
+1729500685,Указание на пользу,no_contradictions,1,40
+1729500685,Указание на пользу,contains_key_message,1,40
+1729500685,Указание на пользу,superlative_adjectives,1,40
