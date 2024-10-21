@@ -325,3 +325,10 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729513896,Указание на пользу,multiple_nouns,1,5
 1729513896,Указание на пользу,no_word_repetitions,3,5
 1729513896,Указание на пользу,cliches_and_bureaucratese,1,5
+1729514146,Указание на пользу,multiple_nouns,1,5
+1729514146,Указание на пользу,no_word_repetitions,3,5
+1729514146,Указание на пользу,cliches_and_bureaucratese,1,5
+1729514146,Вопрос,abstract_claims,1,5
+1729514146,Вопрос,derived_prepositions,1,5
+1729514146,Вопрос,double_verbs,1,5
+1729514146,Вопрос,no_word_repetitions,2,5
