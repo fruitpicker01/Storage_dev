@@ -368,3 +368,13 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729573318,Вопрос,adverbial_participles,2,51
 1729573318,Вопрос,double_verbs,1,51
 1729573318,Вопрос,multiple_nouns,1,51
+1729579673,Вопрос,contains_key_message,7,47
+1729579673,Вопрос,multiple_nouns,1,47
+1729579673,Вопрос,abstract_claims,24,47
+1729579673,Вопрос,adverbial_participles,2,47
+1729579673,Вопрос,cliches_and_bureaucratese,1,47
+1729579673,Вопрос,no_contradictions,3,47
+1729579673,Вопрос,forbidden_words,1,47
+1729579673,Вопрос,introductory_phrases,2,47
+1729579673,Вопрос,amplifiers,1,47
+1729579673,Вопрос,subordinate_clauses_chain,1,47
