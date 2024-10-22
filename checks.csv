@@ -396,3 +396,5 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729595843,Призыв к действию,multiple_nouns,1,10
 1729595843,Призыв к действию,contains_key_message,2,10
 1729595843,Призыв к действию,forbidden_words,1,10
+1729596570,Вопрос,contains_key_message,3,10
+1729596570,Вопрос,participles,1,10
