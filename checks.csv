@@ -348,3 +348,11 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729521053,Указание на пользу,no_contradictions,3,17
 1729521053,Указание на пользу,compound_sentences,1,17
 1729521053,Указание на пользу,abstract_claims,1,17
+1729571836,Вопрос,multiple_nouns,1,28
+1729571836,Вопрос,double_verbs,1,28
+1729571836,Вопрос,abstract_claims,3,28
+1729571836,Вопрос,forbidden_words,4,28
+1729571836,Вопрос,no_contradictions,5,28
+1729571836,Вопрос,no_word_repetitions,9,28
+1729571836,Вопрос,amplifiers,1,28
+1729571836,Вопрос,contains_key_message,1,28
