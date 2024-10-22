@@ -356,3 +356,7 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729571836,Вопрос,no_word_repetitions,9,28
 1729571836,Вопрос,amplifiers,1,28
 1729571836,Вопрос,contains_key_message,1,28
+1729572734,Вопрос,no_word_repetitions,28,46
+1729572734,Вопрос,forbidden_words,2,46
+1729572734,Вопрос,abstract_claims,12,46
+1729572734,Вопрос,contains_key_message,1,46
