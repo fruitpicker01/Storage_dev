@@ -386,3 +386,10 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729583222,Вопрос,participles,1,9
 1729583222,Указание на пользу,no_contradictions,1,8
 1729583222,Указание на пользу,adverbial_participles,1,8
+1729584620,Вопрос,derived_prepositions,1,9
+1729584620,Вопрос,compound_sentences,1,9
+1729584620,Вопрос,participles,1,9
+1729584620,Указание на пользу,no_contradictions,1,8
+1729584620,Указание на пользу,adverbial_participles,1,8
+1729584620,Призыв к действию,contains_key_message,4,12
+1729584620,Призыв к действию,participles,2,12
