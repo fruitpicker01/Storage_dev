@@ -393,3 +393,6 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729584620,Указание на пользу,adverbial_participles,1,8
 1729584620,Призыв к действию,contains_key_message,4,12
 1729584620,Призыв к действию,participles,2,12
+1729595843,Призыв к действию,multiple_nouns,1,10
+1729595843,Призыв к действию,contains_key_message,2,10
+1729595843,Призыв к действию,forbidden_words,1,10
