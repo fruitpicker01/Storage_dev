@@ -446,3 +446,7 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729683471,Призыв к действию,no_contradictions,2,30
 1729684041,Призыв к действию,contains_key_message,2,9
 1729684041,Призыв к действию,no_contradictions,1,9
+1729684411,Призыв к действию,forbidden_words,5,15
+1729684411,Призыв к действию,participles,2,15
+1729684411,Призыв к действию,contains_key_message,1,15
+1729684411,Призыв к действию,no_contradictions,1,15
