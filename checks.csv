@@ -519,3 +519,13 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729709287,Вопрос,participles,1,3
 1729709287,Указание на пользу,participles,1,15
 1729709287,Указание на пользу,multiple_nouns,1,15
+1729759422,Призыв к действию,multiple_nouns,2,161
+1729759422,Призыв к действию,participles,5,161
+1729759422,Призыв к действию,forbidden_words,30,161
+1729759422,Призыв к действию,contains_key_message,20,161
+1729759422,Призыв к действию,cliches_and_bureaucratese,3,161
+1729759422,Призыв к действию,compound_sentences,1,161
+1729759422,Вопрос,participles,1,3
+1729759422,Указание на пользу,participles,7,29
+1729759422,Указание на пользу,multiple_nouns,1,29
+1729759422,Указание на пользу,compound_sentences,2,29
