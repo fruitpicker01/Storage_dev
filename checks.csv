@@ -529,3 +529,6 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1729759422,Указание на пользу,participles,7,29
 1729759422,Указание на пользу,multiple_nouns,1,29
 1729759422,Указание на пользу,compound_sentences,2,29
+1730821660,Указание на пользу,contains_key_message,3,15
+1730821660,Указание на пользу,multiple_nouns,3,15
+1730821660,Указание на пользу,participles,3,15
