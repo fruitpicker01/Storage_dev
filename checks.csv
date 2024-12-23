@@ -532,3 +532,11 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1730821660,Указание на пользу,contains_key_message,3,15
 1730821660,Указание на пользу,multiple_nouns,3,15
 1730821660,Указание на пользу,participles,3,15
+1734945027,Вопрос,abstract_claims,3,20
+1734945027,Вопрос,no_contradictions,3,20
+1734945027,Вопрос,forbidden_words,2,20
+1734945027,Вопрос,cliches_and_bureaucratese,1,20
+1734945027,Вопрос,contains_key_message,2,20
+1734945027,Вопрос,participles,3,20
+1734945027,Вопрос,subordinate_clauses_chain,1,20
+1734945027,Вопрос,introductory_phrases,2,20
