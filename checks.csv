@@ -540,3 +540,7 @@ Timestamp,Approach,Check,Failed_Count,Total_Attempts
 1734945027,Вопрос,participles,3,20
 1734945027,Вопрос,subordinate_clauses_chain,1,20
 1734945027,Вопрос,introductory_phrases,2,20
+1734947210,Призыв к действию,contains_key_message,9,11
+1734947210,Призыв к действию,participles,1,11
+1734947210,Призыв к действию,forbidden_words,1,11
+1734947210,Вопрос,contains_key_message,2,3
